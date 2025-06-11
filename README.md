@@ -1,6 +1,4 @@
 
-# README.md
-
 ## Project Title: Collaborative Feature Integration with Git and GitHub
 
 ### Overview
@@ -35,6 +33,9 @@ This project demonstrates how to collaborate effectively using Git and GitHub by
   - Jerry: `add-contact-info`
 - The contributors made their respective changes locally on these branches.
 
+### Switch to the Branch 
+- Each contributor had to switch from the `main` branch to their respective feature branch in order to make updates and push them for review.
+![tom switch branch](https://github.com/adaezeokoduwa/ai-startup-website/blob/main/images/update%20navigation.jpg)
 ---
 
 ### 🔁 2. Pushing Changes to GitHub
