@@ -36,6 +36,7 @@ This project demonstrates how to collaborate effectively using Git and GitHub by
 ### Switch to the Branch 
 - Each contributor had to switch from the `main` branch to their respective feature branch in order to make updates and push them for review.
 ![tom switch branch](https://github.com/adaezeokoduwa/ai-startup-website/blob/main/webpics/tom-branch.jpg?raw=true)
+
 ---
 
 ### 🔁 2. Pushing Changes to GitHub
@@ -59,6 +60,9 @@ git push origin add-contact-info
 ```
 
 ---
+![](https://github.com/adaezeokoduwa/ai-startup-website/blob/main/webpics/tom_pull_request.jpg?raw=true)
+
+![](https://github.com/adaezeokoduwa/ai-startup-website/blob/main/webpics/jerry_pull_request.jpg?raw=true)
 
 ### 📬 3. Creating a Pull Request (PR)
 
@@ -72,6 +76,7 @@ git push origin add-contact-info
 6. Add a concise **title** and **description** (e.g., “The index.html file contains a sentence describing the purpose of the file.”).
 7. Click **“Create pull request”** to submit.
 
+![](https://github.com/adaezeokoduwa/ai-startup-website/blob/main/webpics/tom_create_pull_request.jpg?raw=true)
 ---
 
 ### ✅ 4. Reviewing and Merging Tom's Pull Request
@@ -85,7 +90,7 @@ git push origin add-contact-info
 ### 🔄 5. Updating Jerry’s Branch with Latest Changes
 
 Before merging Jerry’s branch (`add-contact-info`), it was necessary to sync it with the latest version of `main` (which now includes Tom’s updates):
-
+![jerry switch branch](https://github.com/adaezeokoduwa/ai-startup-website/blob/main/webpics/jerry_branch.jpg?raw=true)
 ```bash
 # Switch to Jerry's branch
 git checkout add-contact-info
@@ -109,8 +114,9 @@ git push origin add-contact-info
 ```
 
 2. Then, he created a **Pull Request** just like Tom did.
-3. The PR was reviewed and merged into the `main` branch.
-
+ ![](https://github.com/adaezeokoduwa/ai-startup-website/blob/main/webpics/jerry_create_pull_request.jpg?raw=true)  
+4. The PR was reviewed and merged into the `main` branch.
+![](https://github.com/adaezeokoduwa/ai-startup-website/blob/main/webpics/jerry_merge.jpg?raw=true)
 ---
 
 ## 🧠 Key Learnings
