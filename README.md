@@ -35,7 +35,7 @@ This project demonstrates how to collaborate effectively using Git and GitHub by
 
 ### Switch to the Branch 
 - Each contributor had to switch from the `main` branch to their respective feature branch in order to make updates and push them for review.
-![tom switch branch](images/tom_branch.jpg)
+![tom switch branch](https://github.com/adaezeokoduwa/ai-startup-website/blob/main/webpics/tom-branch.jpg?raw=true)
 ---
 
 ### 🔁 2. Pushing Changes to GitHub
